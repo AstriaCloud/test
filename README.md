@@ -70,4 +70,4 @@ If the above steps do not work, you can try manually building and installing the
 
 After rebooting, check if the Wi-Fi adapter is working using `iwconfig` again.
 
-By following these steps, you should be able to install and configure the Netgear A1600 driver on Debian 12. If you encounter any issues, please provide more details so I can offer further assistance.
+By following these steps, you should be able to install and configure the Netgear A1600 driver on Debian 12.
